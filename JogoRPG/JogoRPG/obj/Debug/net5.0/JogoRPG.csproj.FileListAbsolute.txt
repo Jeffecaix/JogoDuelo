@@ -1,0 +1,16 @@
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\JogoRPG.exe
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\JogoRPG.deps.json
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\JogoRPG.runtimeconfig.json
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\JogoRPG.runtimeconfig.dev.json
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\JogoRPG.dll
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\ref\JogoRPG.dll
+J:\GitHub\Heroes\JogoRPG\JogoRPG\bin\Debug\net5.0\JogoRPG.pdb
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.csproj.AssemblyReference.cache
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.AssemblyInfoInputs.cache
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.AssemblyInfo.cs
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.csproj.CoreCompileInputs.cache
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.dll
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\ref\JogoRPG.dll
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.pdb
+J:\GitHub\Heroes\JogoRPG\JogoRPG\obj\Debug\net5.0\JogoRPG.genruntimeconfig.cache
